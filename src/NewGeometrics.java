@@ -18,7 +18,7 @@ public class NewGeometrics {
 
     // Rectangle Perimeter
     public static int rectanglePerimeter(int x, int y) {
-        return x + y;
+        return (x + y) * 2;
     }
 
     // Zone of a Sphere
